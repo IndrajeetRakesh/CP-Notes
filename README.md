@@ -3,7 +3,7 @@
 ## Repo Structure
 
 ```
-ICP-1-Sem-Notes/
+CP-Notes/
 │
 ├── README.md
 │
