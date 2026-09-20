@@ -7,11 +7,8 @@ CP-Notes/
 │
 ├── README.md
 │
-├── 01-Linux/
+├── 01-Linux & Vim/
 │   ├── Linux-Basics.md
-│   ├── Commands.md
-│   ├── File-Management.md
-│   ├── Permissions.md
 │   ├── Vim.md
 │   └── Bash.md
 │
