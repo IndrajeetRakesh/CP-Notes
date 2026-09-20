@@ -9,9 +9,6 @@ CP-Notes/
 │
 ├── 01-Linux/
 │   ├── Linux-Basics.md
-│   ├── Commands.md
-│   ├── File-Management.md
-│   ├── Permissions.md
 │   ├── Vim.md
 │   └── Bash.md
 │
