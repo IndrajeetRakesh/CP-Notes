@@ -962,7 +962,7 @@ For beginner programs and competitive programming, you will often see Scanner le
 # 24. Complete Input-Output Template
 
 ```java
-import java.util.Scanner;
+import java.util.*;
 
 public class Main {
 

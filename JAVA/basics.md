@@ -17,7 +17,9 @@ Java is used for:
 
 ## 2. First Java Program
 
-```java
+
+```java 
+import java.util.*;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World");
@@ -25,13 +27,13 @@ public class Main {
 }
 ```
 output: 
-```
+```java
     Hello World
 ```
 ---
 ---
 #1
-```
+```java
 import java.util.*;
 ```
 Imports classes from Java's java.util package.
