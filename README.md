@@ -10,7 +10,6 @@ CP-Notes/
 ├── 01-Linux & Vim/
 │   ├── Linux-Basics.md
 │   ├── Vim.md
-│   └── Bash.md
 │
 ├── 02-Java/
 │   ├── 01-Basics.md
