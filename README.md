@@ -7,7 +7,7 @@ CP-Notes/
 │
 ├── README.md
 │
-├── 01-Linux/
+├── 01-Linux & Vim/
 │   ├── Linux-Basics.md
 │   ├── Vim.md
 │   └── Bash.md
